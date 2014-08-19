@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Noticias de Honduras</string>
+    <string name="action_settings">Opciones</string>
+    <string name="refresh">Refrescar</string>
+    <string name="share">Compartir</string>
+    <string name="calificar">Calificar</string>
+    <string name="acerca">Acerca De</string>
+    <string name="title_section1">Generales</string>
+    <string name="title_section2">Deportes</string>
+    <string name="title_section3">Sociales</string>
+    <string name="info">©2014 San Isidro Developers</string>
+    <string name="name"><b>N</b>oticias de <b>H</b>onduras</string>
+    
+    <string name="version">1.2.3.10</string>
+ 	<!-- Drawer -->
+    <string-array name="generales">
+        <item>Diario La Prensa</item>
+        <item>Diario Tiempo</item>
+        <item>Diario El Heraldo</item>
+        <item>Diario La Tribuna</item>
+        <item>Diario La Gaceta</item>
+        <item>Periodico El Libertador</item>
+        <item>Periodico El Ceibeño</item>
+        <item>Periodico El Progreseño</item>
+        <item>HonduDiario</item>
+        <item>Proceso Digital</item>
+        <item>Diario La Noticia HN</item>
+        <item>Radio HRN</item>
+        <item>Noticias Canal 6</item>
+    </string-array>
+    
+     <string-array name="deportes">
+        <item>Diario Deportivo Diez</item>
+        <item>Diario Deportivo Golazo</item>
+        <item>Diario Deportivo Más</item>
+        <item>Diario Campeones HN</item>
+        <item>Deportes CatrachoSports</item>
+    </string-array>
+    
+     <string-array name="sociales">
+        <item>Revista Social Estilo</item>
+        <item>Revista EVA</item>
+        <item>HondurasTips</item>
+        <item>Revista Chicos</item>
+    </string-array>
+    
+     
+     <!-- Páginas Generales-->
+     <string name="g_laprensa">http://www.laprensa.hn/Mobile/mINICIO</string>
+     <string name="g_tiempo">http://www.tiempo.hn</string>
+     <string name="g_heraldo">http://www.elheraldo.hn/Mobile/mInicio/</string>
+     <string name="g_tribuna">http://www.latribuna.hn/</string>
+     <string name="g_gaceta">http://www.lagaceta.hn/</string>
+     <string name="g_libertador">http://www.ellibertador.hn/</string>
+     <string name="g_ceibeno">http://www.elceibeno.hn/mInicio</string>
+     <string name="g_progreseno">http://www.elprogreseno.hn/mInicio</string>
+     <string name="g_hondudiario">http://www.hondudiario.com/</string>
+     <string name="g_procesodigital">http://www.proceso.hn/</string>
+     <string name="g_lanoticia">http://lanoticia.hn/</string>
+     <string name="g_hrn">http://www.radiohrn.hn/l/</string>
+     <string name="g_canal6">http://www.canal6.com.hn/</string>
+     
+     <!-- Páginas Deporte-->
+     <string name="d_diez">http://m.diez.hn</string>
+     <string name="d_golazo">http://diariodeportivogolazohonduras.blogspot.com/</string>
+     <string name="d_mas">http://www.diariomas.hn/</string>
+     <string name="d_campeones">http://www.campeones.hn/</string>
+     <string name="d_catrachosports">http://catrachosports.com/</string>
+     
+	<!-- Páginas Sociales-->
+     <string name="s_estilo">http://www.estilo.hn/Mobile/mInicio/</string>
+     <string name="s_eva">http://www.eva.hn/</string>
+     <string name="s_ht">http://m.hondurastips.hn/#!/</string>
+     <string name="s_chicos">http://chicos.laprensa.hn/</string>
+     
+     
+</resources>
